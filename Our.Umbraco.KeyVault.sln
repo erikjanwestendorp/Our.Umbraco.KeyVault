@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Our.Umbraco.KeyVault", "Our.Umbraco.KeyVault\Our.Umbraco.KeyVault.csproj", "{1ABE9305-9586-4D65-A5EA-30AEB1953ED0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Our.Umbraco.KeyVault.TestSite", "Our.Umbraco.KeyVault.TestSite\Our.Umbraco.KeyVault.TestSite.csproj", "{CF2D73C8-F354-4B2C-9FB0-715FECF64F91}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Our.Umbraco.KeyVault.Core", "Our.Umbraco.KeyVault.Core\Our.Umbraco.KeyVault.Core.csproj", "{45BA6BB0-14DA-425C-87C0-5C6FEA4D27B6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1ABE9305-9586-4D65-A5EA-30AEB1953ED0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1ABE9305-9586-4D65-A5EA-30AEB1953ED0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1ABE9305-9586-4D65-A5EA-30AEB1953ED0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1ABE9305-9586-4D65-A5EA-30AEB1953ED0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF2D73C8-F354-4B2C-9FB0-715FECF64F91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF2D73C8-F354-4B2C-9FB0-715FECF64F91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF2D73C8-F354-4B2C-9FB0-715FECF64F91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF2D73C8-F354-4B2C-9FB0-715FECF64F91}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45BA6BB0-14DA-425C-87C0-5C6FEA4D27B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45BA6BB0-14DA-425C-87C0-5C6FEA4D27B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45BA6BB0-14DA-425C-87C0-5C6FEA4D27B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45BA6BB0-14DA-425C-87C0-5C6FEA4D27B6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
