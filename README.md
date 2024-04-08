@@ -1,2 +1,2 @@
-Keyvault
+Our.Umbraco.Keyvault
 
